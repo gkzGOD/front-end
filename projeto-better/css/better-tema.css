@@ -1,0 +1,23 @@
+.jumbotron	{
+		background-image:	url(../img/vitrine.jpg);
+		background-size: cover;
+		background-position: center;
+		color: #fff;
+}
+
+.social a[href='https://www.instagram.com/rollbackroupas/'] {
+	background-image: url(../img/icone-insta.png);
+	background-size: 36px 36px;
+}
+
+.social a {
+	display: block;
+	width: 36px;
+	height: 36px;
+	text-indent: -9999px;
+}
+
+.social li {
+	display: inline-block;
+	margin-left: 1em;
+}
